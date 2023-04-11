@@ -1,0 +1,5 @@
+[debug]
+port = 8001
+
+[dbz]
+port = 8010
